@@ -7,6 +7,10 @@ dataset to download from the below link-
 ### Libraries included:
 e1071,ggplot2,gridExtra,corrplot,car,Amelia,rlist,rattle,rpart,rpart.plot,Boruta,caret,pROC
 
+### Attached ppt for further reference.
+
+
+
 
 
 
